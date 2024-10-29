@@ -4,7 +4,7 @@
 
 # 142.CampusSecond-handNetworkManagementSystem
 
-<p>V：bishebao888888(sql文件)</p>
+<p>抠群: 983063232(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">142.校园二手网管理系统</h1></p>
